@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "astro-image-viewer"
+name = "wavelet-kit"
 version = "0.1.0"
 description = ""
 authors = ["joypauls <joypaulsen3@gmail.com>"]

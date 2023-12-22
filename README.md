@@ -1,4 +1,4 @@
-# astro-image-viewer
+# Wavelet Kit
 
 Supported file formats: 
 
@@ -15,7 +15,8 @@ Fast follows:
 
 
 Wishlist: 
-- [ ] video player
+- [ ] 
+- [ ] 
 
 
 ## Dev Environment
